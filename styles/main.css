@@ -277,7 +277,7 @@
 .body .main-page .main_wrapper .tickets_wrapper .tickets .ticket .ticket_header .ticket_logo {
   height: 36px;
   width: 110px;
-  background: url(../images/S7.png);
+  background: url() no-repeat center;
 }
 .body .main-page .main_wrapper .tickets_wrapper .tickets .ticket .ticket_there {
   height: 39px;
