@@ -19,7 +19,7 @@ class Ticket {
   }
 
   setCarrier() {
-    this.ticketId.firstElementChild.lastElementChild.style.background = `url(../images/${this.carrier}.png)`;
+    this.ticketId.firstElementChild.lastElementChild.style.background = `url(images/${this.carrier}.png)`;
   }
 
   setRoute() {
