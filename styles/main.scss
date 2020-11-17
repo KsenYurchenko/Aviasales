@@ -26,7 +26,7 @@
             width: 60px;
             border-radius: 50%;
             border: 4px solid #42A5F5;
-            background: url(/images/label_bg.svg) no-repeat center #2196F3;
+            background: url(../images/label_bg.svg) no-repeat center #2196F3;
             display: flex;
             flex-direction: row;
             justify-content: center;
@@ -36,7 +36,7 @@
             .logo-form {
                 width: 50px;
                 height: 51px;
-                background: url(/images/logo_plane.svg) no-repeat transparent;
+                background: url(../images/logo_plane.svg) no-repeat transparent;
                 transform: rotate(-10deg);
             }
         }
@@ -234,7 +234,6 @@
                     z-index: 1;
 
                     display: flex;
-                    /*flex/none*/
                     flex-direction: column;
                     align-items: center;
 
@@ -278,7 +277,6 @@
                     height: 1000px;
                     width: 502px;
                     display: none;
-                    /*none/flex*/
                     flex-direction: column;
                     align-items: center;
                     justify-content: space-between;
@@ -321,7 +319,7 @@
                             .ticket_logo {
                                 height: 36px;
                                 width: 110px;
-                                background: url(/images/S7.png);
+                                background: url(../images/S7.png);
                             }
                         }
 
